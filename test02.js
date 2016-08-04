@@ -1,1 +1,1 @@
-var test02;
+var test02='test02';
